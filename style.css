@@ -1,0 +1,43 @@
+body{
+  text-align: center;
+  background-color: rgb(84, 84, 122);
+
+} 
+#container {
+  margin:20px;
+  margin-left: 20%;
+  margin-right: 20% ;
+  border-radius: 5px;
+}
+label  {
+  margin: 1px;
+  background-color: aliceblue;
+  padding: 1%;
+  border-radius: 5px;
+}
+input{
+  width: 50%;
+  margin: 5px;
+  background-color: aliceblue;
+  padding: 1%;
+  border-radius: 5px;
+}
+button {
+  color:white;
+  background-color: rgb(8, 52, 182);
+  display: inline;
+  padding: 10px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 5px;
+}
+#para{
+  font-size: 16px;
+  display: inline;
+  color: aliceblue;
+  padding-left: 20px;
+}
+h1{
+  width:100%;
+}
